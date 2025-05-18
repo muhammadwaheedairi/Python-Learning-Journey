@@ -1,4 +1,3 @@
-#Personal Info, Math & Operators
 name="waheed"
 age=22
 country="Pakistan"
