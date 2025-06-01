@@ -88,5 +88,3 @@ python certificate_generator.py
 
 Thanks for checking out this project! 🎉
 Feel free to fork it, improve the design, or even extend it to generate **PDF certificates** in the future. Happy coding! 💻
-
-```
