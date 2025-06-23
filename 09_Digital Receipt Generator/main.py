@@ -1,0 +1,21 @@
+# 💼Digital Receipt Generator
+
+customer_name=str(input("Enter your name:"))
+product_name=str(input("Enter your product name:"))
+quantity=int(input("Enter quantity of product:"))
+price_per_unit=float(input("Enter price:"))
+purchase_date=str(input("Enter your purchase date:"))
+print("========================================".center(50))
+print("DIGITAL RECEIPT - PYTHON STORE".center(50))
+print("========================================".center(50))
+print(f"Customer Name : {customer_name.title()}".center(50))
+print(f"Product Purchased : {product_name.upper()}".center(50))
+print(f"Quantity : {quantity}".center(50))
+print(f"Price Per Unit : {price_per_unit}".center(50))
+print("----------------------------------------".center(50))
+print(f"Total Amount : {quantity*price_per_unit}".center(50))
+print(f"Purchase Date : {purchase_date}".center(50))
+print("========================================".center(50))
+print("Thank you for shopping with us!".center(50))
+print(f"Customer Name Length (No spaces) : {len(customer_name.replace(' ',''))}".center(50))
+
