@@ -46,4 +46,3 @@ Current time is: 19:45:12
 Thanks for checking out this mini project! 🚀  
 Feel free to fork, modify, or use it to learn how Python handles time and user interaction. 😊  
 Happy coding! 💻🐍
-```
